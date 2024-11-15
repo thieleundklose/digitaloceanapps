@@ -2,7 +2,7 @@
 
 1: Add Package from public github 
 ````
-"digitaloceanapps":"github:webbardev/digitaloceanapps"
+"digitaloceanapps":"github:thieleundklose/digitaloceanapps"
 ````
 
 2: run install
